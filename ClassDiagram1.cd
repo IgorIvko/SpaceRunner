@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Boss" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSACAAAAIEAAAQAAAAAAIAAAEAAAAQAAAAAgABACAA=</HashCode>
+      <FileName>Assets\Scripts\Boss\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossAngrySound" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Boss\BossAngrySound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossMover" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Boss\BossMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossShooter" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAEACAABABAgAAAAEAAAQAQAAAACAAACBAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Boss\BossShooter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossFireball" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAACAAAAAAAAAAAAAAAEAEAAAABAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bullet\BossFireball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAGAAAAAAAAAAAEAAAAAAAAIAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Bullet\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletDestroyer" Collapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bullet\BulletDestroyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletSpawner" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAABABCBAAAAAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Bullet\BulletSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitEffects" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAACAAAAAAAAAAAAACAAQIAAAAAABACEA=</HashCode>
+      <FileName>Assets\Scripts\Effects\AidKitEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitEffectsContainer" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Effects\AidKitEffectsContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EffectContainer" Collapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Effects\EffectContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDieEffect" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAABAAAADAAQIAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Effects\EnemyDieEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero" Collapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAiEAAAAgAAAAAAAAAAAAAABAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Hero\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroInput" Collapsed="true">
+    <Position X="27.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAKAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>Assets\Scripts\Hero\HeroInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroMover" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAgAABAAAAAAAAAAAAAAAAAVAAAAAAABAQ=</HashCode>
+      <FileName>Assets\Scripts\Hero\HeroMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroShooter" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAACAABAAABACAAAAAEAAABBAAAAIAAAAAARQ=</HashCode>
+      <FileName>Assets\Scripts\Hero\HeroShooter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKit" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAIAAgkAAAEAAABAAAABAAEI=</HashCode>
+      <FileName>Assets\Scripts\Items\AidKit\AidKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitDieSound" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAAAAAAAAAAQAAAAIAgAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\AidKit\AidKitDieSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitHealingSound" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQCAAAAAAAAAQAAAAIAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\AidKit\AidKitHealingSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitMover" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAABAAAACAAAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\AidKit\AidKitMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AidKitSpawner" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAAACAAAAAAAAAQADAAAAAAAAEAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\AidKit\AidKitSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAhAAQAAIAAAkAAAAAIAIIAAABACAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDestroyer" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Enemy\EnemyDestroyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDieSound" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAIAAAAAAAAAAAIAgAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Enemy\EnemyDieSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMover" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAABAAAACAAAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\Enemy\EnemyMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemySpawner" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEACAAACAAAAADAAAAAAAAAQADAAAAAAAAEAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\Enemy\EnemySpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkullBox" Collapsed="true">
+    <Position X="25.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAIAAAkAAAEIAABAAAABAAEE=</HashCode>
+      <FileName>Assets\Scripts\Items\SkullBox\SkullBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkullBoxDieSound" Collapsed="true">
+    <Position X="27.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAAAAAAEAAAIAgAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\SkullBox\SkullBoxDieSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkullBoxMover" Collapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAABAAAACAAAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\SkullBox\SkullBoxMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkullBoxSpawner" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAAACAAAAAAAAAQADAAAAAAAAEAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\SkullBox\SkullBoxSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundSkullBoxDyingFromHero" Collapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAgAAAAAEAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\SkullBox\SoundSkullBoxDyingFromHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyManager" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAQAACAIAAgAAAAgAAAQQSgAAAAQAAAAAAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\Manager\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pooler" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAQAAAAAAACAQABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\Pooler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exit" Collapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\UI\Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverLose" Collapsed="true">
+    <Position X="27.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAASAAAAAAAACAIAAAAAABACAA=</HashCode>
+      <FileName>Assets\Scripts\UI\GameOverLose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverWin" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAASAAAAAAAACAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\UI\GameOverWin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthBar" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAIAAAAEABACAA=</HashCode>
+      <FileName>Assets\Scripts\UI\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthBarBoss" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAEAAAAAIAAAAAIAAAAEAAACAA=</HashCode>
+      <FileName>Assets\Scripts\UI\HealthBarBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heart" Collapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAEAAAAAAASAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\Heart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallax" Collapsed="true">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAABAKAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\Parallax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="24" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAACAAAgIBAAAgAAAAAEAAAAAJCAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartGameButton" Collapsed="true">
+    <Position X="22.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\StartGameButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TargetButton" Collapsed="true">
+    <Position X="24" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAASAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\TargetButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
